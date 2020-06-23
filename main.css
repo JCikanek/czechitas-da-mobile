@@ -1,0 +1,23 @@
+iframe{
+    position: relative;
+    /* border: solid 1px black; */
+    top: 97px;
+    left: 33px;
+    width: 388px;
+    height: 693px;
+}
+
+.phone{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 861px;
+    background-image: url(/phnone-bck.png);
+    background-size: contain;
+    padding: 50px;
+    position: relative;
+}
+
+.container{
+    margin: 3rem;    
+}
